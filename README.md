@@ -2,7 +2,7 @@ Hai, selamat datang di Coding Class 101!
 
 Pada Coding Class 101, kita akan belajar basic dari HTML dan CSS.
 Pada akhir kelas, setiap peserta akan memiliki halaman web sederhana seperti ini:
-http://ariefrahmansyah.github.io/codingclass-101/12.html
+http://ariefrahmansyah.github.io/web-101/12.html
 Bisa jadi, halaman web yang kamu buat akan lebih bagus dari yang saya punya!
 
 Yang perlu kamu siapkan:
