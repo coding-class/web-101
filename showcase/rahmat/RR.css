@@ -1,0 +1,47 @@
+img {
+	border-radius: 100px;
+	width: 200px;
+}
+body {
+	margin: 0 auto;
+	max-width: 500em;
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 2;
+	padding: 0em 0em;
+	
+ 
+}
+
+h2 {
+	margin-top: 1em;
+	padding-top: 1em;
+
+}
+
+h1 {
+	color: green;
+
+}
+
+a {
+	color: green;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.header_hallo {
+	color: red;
+}
+
+header {
+	display: block;
+	background-image: url("header.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 3em 2em;
+	text-align: center;
+}

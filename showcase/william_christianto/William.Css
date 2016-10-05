@@ -1,0 +1,44 @@
+body {
+		margin: 0 auto;
+		max-width: 50em;
+		font-family:"Helvetica","Arial",sans-serif;
+		line-height:1.5;
+		padding: 4em 1 em;
+}
+h2{
+		margin-top: 1em;
+		padding-top: 1em;
+}
+
+    .img-circle {
+        border-radius: 50%; position: center;size:auto;
+    }
+	
+h1,h2{
+		color: black;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+.header_halo{
+	color: white;position:left-side;
+}
+
+header{
+	display: block;
+	background-image: url("Tops.jpg");
+	background-position: center center ; 
+	background-repeat: no-repeat;
+	background-size: auto;
+	text-align: center left-side;
+	padding: 5vw 2em;
+}
+	
+	

@@ -1,0 +1,83 @@
+body {
+	margin: 0 auto;
+	max-width: 50em;
+	font-family: "Arial", "Helvetica", San-serif;
+	line-height: 1.5;
+	padding: 4em 1em; 
+}
+	
+h2 {
+	margin-top: 1em;
+	padding-top: 1em;
+}
+
+h1, h2 {
+	color: orange;
+	text-decoration: none;
+}
+
+#content {
+	margin: 0 auto;
+	max-width: 50em;
+}
+
+a: hover {
+	text-decoration: underline;
+}
+
+.header_halo {
+	color: white;
+}
+
+header {
+	display: block;
+}
+
+header {
+	display: block;
+	background-image: url ("kungs3.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10vw 2em;
+	text-align: center;
+}
+
+header {
+	background-color: #263d36;
+	background-image: url("blueocean.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	line-height: 1.2;
+	padding: 10vw 2em;
+	text-align: center;
+}
+
+header {
+	display: block;
+}
+
+header h1{
+	color: white;
+	font-size: 2.5em;
+	font-weight: 200;
+}
+
+header img {
+	border-radius: 50%;	
+	display: inline-block;
+	vertical-align: top;
+	height: 200px;
+	width: 200px;
+}	
+
+
+	
+footer {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	margin-top: 4em;
+	text-align: center;
+}

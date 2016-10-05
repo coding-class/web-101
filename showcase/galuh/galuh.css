@@ -1,0 +1,64 @@
+body	{
+	margin: 0 auto;
+	max-width: 57.5em;
+	font-family: "Andale Mono", "Monotype.com", monospace;
+	line-height: 1.0;
+	padding: 1em 5em;
+}
+
+h2	{
+	margin-top: 0.5em
+	padding-top: 1em;
+}
+
+h1,h2	{
+	color: #C2C2BD;
+}
+
+a {
+	color : #E1DD0C;
+	text-decoration: none;
+}
+
+a:hover	{
+	text-decoration: underline;
+}
+
+
+
+.header_halo	{
+	color:white;
+}
+
+header {
+	display: block;
+	background-image: url("header1.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 13vw 10em;
+	text-align: center;
+
+
+}
+
+.circleimage	{
+	width: 160px;
+ 	height: 175px;
+ 	border-radius: 100%
+
+}
+
+.button {
+    background-color: gold; 
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13.5px;
+}
+
+
+
