@@ -1,0 +1,16 @@
+body {
+	margin:2em auto;
+	max-width: 50em;
+	font-family: "Helvetica";
+	line-height: 1.5;
+
+
+}
+h1, h2{
+	color: #42b549;
+
+}
+
+.gambar-profil {
+	border-radius: 50%;
+}
